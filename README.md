@@ -6,4 +6,8 @@
 
 # 【ゲーム詳細】
 コマンドプロンプト上で動くゲームです。  
-＋とーのボタンを押してギミックを切り替え、ゴールにたどり着く謎解き迷路ゲーム。
+＋とーのボタンを押してギミックを切り替え、ゴールにたどり着く謎解き迷路ゲーム。  
+
+## リンク
+[GogleDrive](https://drive.google.com/drive/folders/1cvKwI6bULzXWAQoCk8c94YmxkPEFikhD?usp=drive_link)  
+[作品動画](https://drive.google.com/file/d/1tpcxH2c947s3M2mX0HkuPBw1YITtfD7U/view?usp=drive_link)
